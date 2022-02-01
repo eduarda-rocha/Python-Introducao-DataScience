@@ -1,0 +1,2 @@
+# Trabalhando com arrays Numpy
+
