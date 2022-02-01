@@ -1,6 +1,6 @@
 # Trabalhando com arrays Numpy
 
-```
+
 import numpy as np                                  #importação da biblioteca
 
 km = np.loadtxt('carros-km.txt')                    #receberá um array numpy e carrega o arquivo TXT passado
@@ -13,4 +13,3 @@ km_media = km / (2022 - anos)                       #calculo da quilometragem an
 km_media
 type(km_media)                                      #retornará um numpy.ndarray
 
-```
