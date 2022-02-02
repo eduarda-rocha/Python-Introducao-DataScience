@@ -1,5 +1,6 @@
 ## Operações Matemáticas
 
+```
 soma = 2 + 2
 soma
 
@@ -24,7 +25,7 @@ resto_divisao
 expressao_matematica = 5 * 6 + 3 / 2 - 23 #resolve por ordem de preferencia quando não tem parenteses
 expressao_matematica
 
-_ + 5                                   #variavel "_" underscore atribui o ultimo resultado impresso à ela
+```                           
 
 
 
