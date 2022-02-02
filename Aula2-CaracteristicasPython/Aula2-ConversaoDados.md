@@ -1,6 +1,6 @@
 # Conversão de Dados
 
-'''
+```
 a = 10
 b = 20
 c = 'Python e '
@@ -16,4 +16,4 @@ float(a)            #Saída: 10.0
 var = 3.141592
 int(var)            #Saída: 3
 
-'''
+```
