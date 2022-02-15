@@ -20,5 +20,5 @@ Carros[0][-2][1]        #Saída: 'Travas elétricas'
 
 Acessorios[2:5]         #Saída: ['Piloto automático', 'Bancos de couro', 'Ar condicionado']. Como o fatiamento é não-inclusivo, somente os itens de índice 2 a 4 foram listados.
 
-Acessorios[2:]          #Saída: ['Piloto automático', 'Bancos de couro', 'Ar condicionado', 'Sensor de estacionamento', 'Sensor crepuscular', 'Sensor de chuva']. Itens a partir do índice 2 até o final.
+Acessorios[2:]          #Saída: ['Piloto automático', 'Bancos de couro', 'Ar condicionado', 'Sensor de estacionamento', 'Sensor crepuscular', 'Sensor de chuva']. Listados itens a partir do índice 2 até o final.
 ```
