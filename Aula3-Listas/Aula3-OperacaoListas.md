@@ -8,7 +8,7 @@ Acessorios
 
 '4 x 4' in Acessorios               #Saída: false
 
-'Rodas de liga' not in Acessorios   #Identificar de um item não está na lista
+'Rodas de liga' not in Acessorios   #Identificar se um item não está na lista
 
 A = ['Rodas de liga', 'Travas elétricas']
 B = ['Ar condicionado', 'Sensor']
