@@ -1,4 +1,4 @@
-# Loop For Alinhado
+# Loop For Aninhado
 
 ```
 dados = [ 
